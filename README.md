@@ -23,7 +23,7 @@ players potential rating with 98.92% accuracy using R.
 train and test datasets to build a model.
 
 ### NYPD Crime Analysis – Excel, Tableau 
-[Link] (https://public.tableau.com/app/profile/monika.gundecha6637/vizzes)
+[Link](https://public.tableau.com/app/profile/monika.gundecha6637/vizzes)
 - Discovered that 20% of male perpetrators involved in molestation-related crimes are young adults after performing data cleaning and 
 Exploratory Data Analysis (EDA) using Excel.
 - Developed interactive Tableau dashboards by connecting various data sources and defining calculations to provide crime insights.
