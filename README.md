@@ -7,7 +7,7 @@
 
 ## Projects
 ### Engaging Worlds, Gold Medal - MIT Education Hackathon ‘24 – Python, Convai, Anthropic
-[Publication](https://drive.google.com/file/d/1X-DqRWSOlMX3HOqbCXRaomZ9jDIYrog8/view?usp=sharing)
+[Link](https://drive.google.com/file/d/1X-DqRWSOlMX3HOqbCXRaomZ9jDIYrog8/view?usp=sharing)
 - Developed an AI-powered immersive learning platform that integrates interactive experiences with automated assessment across 
 multiple devices, including VR.
 - Integrated NLP for real-time student interaction analysis, generating actionable insights for educators.
@@ -23,13 +23,14 @@ players potential rating with 98.92% accuracy using R.
 train and test datasets to build a model.
 
 ### NYPD Crime Analysis – Excel, Tableau 
+[Link] (https://public.tableau.com/app/profile/monika.gundecha6637/vizzes)
 - Discovered that 20% of male perpetrators involved in molestation-related crimes are young adults after performing data cleaning and 
 Exploratory Data Analysis (EDA) using Excel.
 - Developed interactive Tableau dashboards by connecting various data sources and defining calculations to provide crime insights.
 
 ### Drug Misuse Study – SQL, R, Excel 
 - Developed SQL database design to study drug consumption among different age groups over the period and deployed it on Azure.
-- Utilized excel for data transformation and R for data visualization of drug consumption patterns. 
+- Utilized Excel for data transformation and R for data visualization of drug consumption patterns. 
 
 ### Student Grade Analysis Study – R, Excel 
 - Collected percentage grade data from students in various colleges through random sampling and performed data cleaning using R.
