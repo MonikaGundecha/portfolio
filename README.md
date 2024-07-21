@@ -1,4 +1,5 @@
 # Data Analyst
+## [Tableau Portfolio](https://public.tableau.com/app/profile/monika.gundecha6637/vizzes)|[Github Portfolio] (https://github.com/MonikaGundecha)
 #### Technical Skills: Python, SQL, R, Tableau, Power BI
 ## Education
 - Masters in Data Analytics | Northeastern University (_Sep 2023 - May 2025_)								       		
@@ -67,6 +68,6 @@ school students by 65%.
 volunteers, drawing in a crowd of over 2,500 visitors.
 
 
-[Tableau Portfolio](https://public.tableau.com/app/profile/monika.gundecha6637/vizzes)
+
 
 
