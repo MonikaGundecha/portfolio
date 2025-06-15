@@ -3,7 +3,7 @@
 
 #### Technical Skills: Python, SQL, R, Tableau, Power BI
 ## Education
-- Masters in Data Analytics | Northeastern University (_May 2025_)								       		
+- Masters in Data Analytics | Northeastern University (_Aug 2025_)								       		
 - Master of Science in Physics	| Pune University (_May 2017_)	 			        		
 - Bachelor of Science in Physics | Pune University (_May 2015_)
 
