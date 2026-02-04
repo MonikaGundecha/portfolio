@@ -61,7 +61,7 @@ engaging educational content that achieved a 3.95/4.00 stakeholder rating.
 - Collaborated with the Data Analytics team to gather student data using LMS and perform analysis to drive student growth by 12%.
 - Mentored and onboarded 4 new curriculum designers and helped them achieve a rating of 3.80/4.00 in their first month.
 
-**Program Manager @ LIDO Learning (_Oct 2019 - Apr 2021_)**
+**Program Manager @ Science for All Foundation (_Jun 2017 - Sep 2019_)**
 - Managed stakeholder relationships and facilitated communication between the organization and 20 low-income public schools across the 
 city, ensuring alignment of services throughout the academic year.
 - Implemented a comprehensive training program for 35 instructors, enhancing Math and Science delivery in Public Schools, resulting in improved academic performance and a 150% increase in client base.
