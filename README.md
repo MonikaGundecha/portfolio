@@ -33,13 +33,6 @@ records while performing validation and compression, optimizing storage efficien
 accurate credential demand analysis.
 -  Transformed data using Alteryx and built Tableau dashboards to track credential vs. degree demand metrics and trends.
 
-**Data Analyst @ Madden Global Solutions (_Jan 2025 - Present_)**
-- 	Designed and implemented a Python-based ETL pipeline using pandas to automate Circana data processing into Google Looker Studio for a BI reporting system from scratch to track weekly KPIs. Enabled real-time reporting for 14 clients and reduced manual reporting by 80%.
-- 	Built an integrated supply chain analytics platform using Excel Macros to achieve 98% in-stock rates and a 15% sales increase.
-- 	Implemented a cost-benefit analysis framework using Excel to evaluate promotional campaigns, delivering a 235% ROI.
-- 	Automated Excel-based financial budget watch reports by extracting and transforming SAP data to track $76 million in CPG shipments.
-- 	Identified supply chain and compliance gaps at the store level, analyzing POS data using Excel, and recovered $3.9 million in lost sales for a client.
-
 
 **Product Manager @ Infinity Learn (_Oct 2022 - Apr 2023_)**
 - Designed Generative AI workflows to test content variants and reduce production timelines by 40% with automated pipelines.
