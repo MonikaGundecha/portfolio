@@ -34,7 +34,7 @@ accurate credential demand analysis.
 -  Transformed data using Alteryx and built Tableau dashboards to track credential vs. degree demand metrics and trends.
 
 
-**Product Manager @ Infinity Learn (_Oct 2022 - Apr 2023_)**
+**Product Analyst @ Infinity Learn (_Oct 2022 - Apr 2023_)**
 - Designed Generative AI workflows to test content variants and reduce production timelines by 40% with automated pipelines.
 - Performed rigorous data quality validation in Excel across 6,000+ assessments and 500+ articles using standardized audit logs.
 - Analyzed competitor platforms and engagement metrics, identifying content gaps that increased user engagement by 14%.
