@@ -3,9 +3,9 @@
 
 #### Technical Skills: Python, SQL, R, Tableau, Power BI
 ## Education
-- Masters in Data Analytics | Northeastern University 								       		
-- Master of Science in Physics	| Pune University  			        		
-- Bachelor of Science in Physics | Pune University 
+- Masters in Data Analytics | Northeastern University					       		
+- Master of Science in Physics	| Pune University       		
+- Bachelor of Science in Physics | Pune University
 
 ## Work Experience
 **Data Science Intern @ Bristol Mayers Squib (_Jul 2025 - Sep 2025_)**
