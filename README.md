@@ -63,11 +63,26 @@ city, ensuring alignment of services throughout the academic year.
 
 ## Projects
 ### Engaging Worlds, Gold Medal - MIT Education Hackathon ‘24 – Python, Convai, Anthropic
-[Link](https://drive.google.com/file/d/1X-DqRWSOlMX3HOqbCXRaomZ9jDIYrog8/view?usp=sharing)
+[Link](https://docs.google.com/presentation/d/1bFdDx92Qt8TF32yo8YUBQOwpoLibdfkU/edit?rtpof=true)
 - Developed an AI-powered immersive learning platform that integrates interactive experiences with automated assessment across 
 multiple devices, including VR.
 - Integrated NLP for real-time student interaction analysis, generating actionable insights for educators.
 
+## Emergency Room Performance Dashboard – Databricks, PySpark, SQL, Tableau
+[Link](https://github.com/MonikaGundecha/ER-Performance-Dashboard)
+- Built an end to end analytics pipeline in Databricks to process ER visit data and analyze patient flow from arrival to discharge.  
+- Designed a star schema with fact and dimension tables to support analysis of wait time, length of stay, and delay patterns.  
+- Performed data cleaning and transformations using PySpark and SQL.  
+- Developed Tableau dashboards to identify bottlenecks, peak hours, and patient level trends.  
+
+## Retail Sales Analytics Pipeline and Dashboard – Azure, Databricks, SQL, Power BI
+[Link](https://github.com/MonikaGundecha/retailproject)
+
+- Built an end to end retail analytics pipeline using Azure Data Factory concepts, Azure Data Lake, and Databricks to process data from multiple sources.  
+- Implemented medallion architecture with Bronze, Silver, and Gold layers to improve data quality and support scalable data processing.  
+- Performed data transformations and aggregations using SQL to generate business metrics such as total sales, product performance, and store level insights.  
+- Developed an interactive Power BI dashboard to analyze sales trends, top products, and regional performance across stores and customers.
+- 
 ### FIFA Players Analytics – R, Excel
 [Link](https://github.com/MonikaGundecha/FIFA-Player-Performance-Analysis-and-Predictive-Modeling)
 - Conducted extensive Exploratory Data Analysis (EDA) on 18,483 FIFA player records, identifying key correlations and patterns in player attributes, market values, and wages. 
