@@ -8,7 +8,7 @@
 - Bachelor of Science in Physics | Pune University
 
 ## Work Experience
-**Data Science Intern @ Bristol Mayers Squib (_Jul 2025 - Sep 2025_)**
+**Data Science Intern @ Bristol Myers Squibb (_Jul 2025 - Sep 2025_)**
 -  Analyzed biomarker and neuroinflammation datasets in R using EDA and statistical testing to support experimental decisions.
 -  Converted manual Excel models into reproducible R pipelines, reducing errors and saving 40 hours of manual work weekly.
 -  Collaborated with scientists to validate assumptions, interpret results, and translate analyses into actionable insights.
